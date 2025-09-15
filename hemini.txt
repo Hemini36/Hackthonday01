@@ -1,0 +1,3 @@
+Name:Hemini kandregula
+Group:BCa
+Descrition: Github is a tool for creating is tool for creating repos
